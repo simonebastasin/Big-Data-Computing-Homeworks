@@ -1,0 +1,13 @@
+File :
+Number of points N = 
+Number of centers k = 
+Number of outliers z = 
+Number of partitions L = 
+Time to read from file: ....  ms
+Initial guess = 
+Final guess = 
+Number of guesses = 
+Time Round 1: .... ms
+Time Round 2: .... ms
+Objective function = 
+Time to compute objective function: .... ms

@@ -1,6 +1,6 @@
 # Big Data Computing course
 
-*Complete text of the assignments can be found in each folder*
+*(full text of each assignment is available in its folder)*
 
 ## Homework 1
 
